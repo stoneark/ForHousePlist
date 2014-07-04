@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/wozaijinan.ipa</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/wozaijinan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/icon114.png</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/icon114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/icon57.png</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>dianzhi.wozaijinan</string>
 				<key>bundle-version</key>
-				<string>0.1.5294</string>
+				<string>0.1.6068</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
