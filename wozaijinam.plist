@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.253/ios/wozaijinan.ipa</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/wozaijinan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.1.253/ios/icon114.png</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/icon114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.1.253/ios/icon57.png</string>
+					<string>http://115.29.169.6:8080/down.myapp.com/wozaijinam/ios/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
